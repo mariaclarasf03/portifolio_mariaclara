@@ -1,4 +1,4 @@
-site_name: teste
+site_name: Portifólio Maria Clara
 site_url: 
 theme:
     name: material
@@ -64,8 +64,10 @@ theme:
           accent: lime
 
 nav:
-    - Introduction:
-        - Welcome: index.md
+    - Quem é a Maria?:
+        - Biografia: index.md
+    - Objetivos:
+        - Metas: objetivos/metas.md
 
 markdown_extensions:
     - md_in_html
@@ -81,5 +83,5 @@ markdown_extensions:
         permalink: "#"
 
 # Configuration
-repo_url: 
-repo_name: 
+repo_url: https://github.com/mariaclarasf03/portifolio_mariaclara
+repo_name: Portifólio_MariaClara
